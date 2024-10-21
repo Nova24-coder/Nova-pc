@@ -1,0 +1,13 @@
+Cmd
+Diskpart 
+list volume
+( partitii )
+-----------------
+cmd 
+tree /f 
+( tot )
+-----------------
+cmd 
+tasklist 
+( exe uri )
+-----------------

@@ -1,0 +1,8 @@
+HKEY_CURRENT_USER\Software\Microsoft\windows\CurrentVersion\Explorer\TypedPaths
+HKEY_USERS\S-1-5-21-3717294198-4166066372-1238365284-1001\SOFTWARE\Microsoft\windows\CurrentVersion\Explorer\RecentDocs
+HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search VolumeInfocache
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage AppSwitched
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage ShowJumpView
+Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+HKEY_CURRENT_USER\SOFTWARE\WinRAR ArcHistory C:\Users\Fortn\Desktop\SHhhh

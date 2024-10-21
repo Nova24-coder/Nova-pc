@@ -1,0 +1,9 @@
+C:\Users%username%\AppData\Local\Microsoft 
+C:\Users%username%\AppData\Local\Microsoft\CLR_v4.0\UsageLogs
+Windows + R Shell:recent Windows + R C: $Recycle.bin
+C:\Users%username%\AppData\Local\CrashDumps
+C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\
+
+
+
+
